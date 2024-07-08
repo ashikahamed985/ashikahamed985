@@ -1,13 +1,5 @@
 ![CSE student From American International University-Bangladesh](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-1/336229931_1087244048878196_4994657279023866237_n.jpg?stp=dst-jpg_p160x160&_nc_cat=101&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=R9yJpAPGR9oQ7kNvgH3HUT1&_nc_ht=scontent.fdac5-2.fna&oh=00_AYApXMWdcvJ3FoTPDZqGgP_0iRWLO0SglZVkDVeoMph11Q&oe=66921F39)
 
-### Hi there 👋, This is Ashik Ahamed 
-#### CSE student From American International University-Bangladesh
-
-
-Got it! Here's a draft based on the information you provided:
-
----
-
 My name is Ashik Ahamed, and I am currently pursuing a degree in Computer Science and Engineering (CSE) at American International University-Bangladesh (AIUB). I am on the verge of completing my undergraduate studies, with a major focus in Information Systems and Data Science. 
 
 Throughout my academic journey, I have developed a strong foundation in various aspects of computer science, with a particular emphasis on data analysis, database management, and information systems. My passion for data science has driven me to explore the vast potential of data-driven decision-making and its impact on businesses and technology.
