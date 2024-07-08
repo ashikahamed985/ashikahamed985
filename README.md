@@ -2,7 +2,7 @@
 
 ### Hi there 👋, This is Ashik Ahamed 
 #### CSE student From American International University-Bangladesh
-![CSE student From American International University-Bangladesh](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-1/336229931_1087244048878196_4994657279023866237_n.jpg?stp=dst-jpg_p160x160&_nc_cat=101&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=R9yJpAPGR9oQ7kNvgH3HUT1&_nc_ht=scontent.fdac5-2.fna&oh=00_AYApXMWdcvJ3FoTPDZqGgP_0iRWLO0SglZVkDVeoMph11Q&oe=66921F39)
+
 
 Got it! Here's a draft based on the information you provided:
 
